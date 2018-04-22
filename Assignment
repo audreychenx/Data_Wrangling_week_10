@@ -1,0 +1,7 @@
+write a Shiny app using American Community Survey data with the following features:
+
+* a choice of which state to plot
+* a choice of plotting either median household income (B19013_001), median gross rent (B25064_001), 
+  or the ratio of median gross rent to median household income
+  
+* a plot of the chosen variable in the chosen state.
